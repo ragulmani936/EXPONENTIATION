@@ -28,7 +28,7 @@ print("Exponentiation of a given number:",exp())
 ~~~
 
 ## Output:
-![exponentiation of a number]()
+![exponentiation of a number](https://github.com/ragulmani936/EXPONENTIATION/blob/main/Screenshot%20(37).png?raw=true)
 
 
 ## Result:
